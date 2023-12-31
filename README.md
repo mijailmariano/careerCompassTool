@@ -1,4 +1,4 @@
-# Data Scraping and Analysis Notebook
+# Career Compass: Job Data Web Scraper and Analyzer Tool
     Author: Mijail Q Mariano
 
 ## Introduction
