@@ -176,9 +176,9 @@ def scrape_page():
     '''
     Web Scraping Function that scrapes individual LinkedIn page
     '''
-
+    
     url = str(input("Enter Job Post URL: "))
-
+    
     # create generic headers
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 

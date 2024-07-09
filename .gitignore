@@ -1,4 +1,5 @@
 # "big-ticket" items
+devFolder/
 env.py
 mm_env.py
 .DS_Store
